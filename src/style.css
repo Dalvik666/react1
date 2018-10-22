@@ -1,0 +1,54 @@
+.light{
+	background-color: gray;
+	width: auto;
+	height: 40px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 47px;
+	border-radius: 3px;
+}
+.red{
+	background-color: red;
+	wider: 20px;
+	height: 40px;
+	margin-left: 20px;
+	float: left;
+	margin-top: 15px;
+	border-radius: 3px;
+}
+.box{
+	margin-top: 15px;
+	width: 300px;
+	height: 160px;
+	border-radius: 7px;
+}
+.text{
+	margin-top: 15px;
+	background-color: green;
+	width: 200px;
+	height: 40px;
+	border-radius: 7px;
+	color: white;
+	padding-top: 15px;
+	font-family: Comic sans MS;
+}
+}
+.success{
+	background-color: red;
+	wider: 20px;
+	height: 20px;
+	margin-left: 20px;
+	float: left;
+	margin-top: 35px;
+}
+.box{
+	border: 2px solid black;
+}
+textarea{
+	margin-left: 5px;
+	float: left;
+	margin-top: 10px;
+	width: 290px;
+	height: 117px;
+}
+
